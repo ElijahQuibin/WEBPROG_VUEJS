@@ -17,5 +17,6 @@ app.component('instruments', Instruments)
 app.component('comment-form', CommentForm)
 app.component('comment', Comment)
 app.component('personal-profile', PersonalProfile)
- 
+app.component('rest-api', RestApi)
+
 app.mount('#app')
