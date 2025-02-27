@@ -7,6 +7,7 @@ import FoodItem2 from './components/FoodItem2.vue'
 import CommentForm from'./components/CommentForm.vue'
 import Comment from './components/Comment.vue'
 import PersonalProfile from './components/PersonalProfile.vue'
+import RestApi from './components/RestApi.vue'
 
 const app = createApp(App)
  
